@@ -1,0 +1,5 @@
+## init
+
+`npm init -y`
+
+##
